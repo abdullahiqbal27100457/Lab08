@@ -1,6 +1,7 @@
 package com.example.lab08;
 
 public class City {
+//    comment for GitHub Actions CI testing
     private String city;
     private String province;
 
